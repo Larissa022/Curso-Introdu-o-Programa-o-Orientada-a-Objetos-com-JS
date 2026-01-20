@@ -1,1 +1,1 @@
-# Curso-Introdu-o-Programa-o-Orientada-a-Objetos-com-JS
+# Curso-Introdução-Programação-Orientada-a-Objetos-com-JS
